@@ -2,7 +2,15 @@
 **Period**:  6-01-2025 -  present 
 **Team**: Capstone_2021_18051_1 
 
+
 ---
+
+### **Progress Tracking**  
+Track the team's progress using the shared Google Sheets:  
+[Progress Tracking Sheet](https://docs.google.com/spreadsheets/d/1wPvjkYUi04av027WnbwrWEkqgOUqs7ESSeW5ZgZfn0g/edit?gid=0)  
+
+---
+
 
 ### **Week -1  Highlights**  
 1. **OCR Code Implementation**  
@@ -28,6 +36,7 @@
 
 **Team Members**: Sanjana Singamsetty , Manohar Junga, Shanmukh Mittapally, Mahitha Chimata  
 **Prepared By**: Sanjana Singamsetty 
+
 
 
 
